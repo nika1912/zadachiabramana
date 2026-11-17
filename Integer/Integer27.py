@@ -1,0 +1,2 @@
+K = int(input())
+print((K - 1 + 6 - 1) % 7 + 1)
